@@ -6,7 +6,7 @@ public class reverse {
     public static void main(String[] args) {
            int n , reverse =0;
 
-    System.out.println("enterv the no to be reverse");
+    System.out.println("enterv the no to be reverssse");
     Scanner in = new Scanner(System.in);
     n= in.nextInt();
 while(n!=0){
