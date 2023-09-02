@@ -1,18 +1,9 @@
-import java.util.Scanner;
-// public class ifelse1 {
+public class enhanceloop {
 //     public static void main(String[] args) {
-//         int a,b;
- 
-//      a=50;
-//       Scanner sc = new Scanner(System.in);
-   
-//        System.out.println("entere the value");
-//          b= sc.nextInt();
-//        if(b>50){
-//         System.out.println("the value of b is greater");
-//        }
-//        else{
-//         System.out.println("the value of b is small");
-//        }
+//         int a[]={2,3,4,5,6,7,8,9,0};
+//         for(int t:a){
+//             System.out.println(t);
+//         }
+      
 //     }
 // }
