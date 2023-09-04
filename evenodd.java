@@ -9,11 +9,11 @@ public class evenodd {
         a=sc.nextInt();
         if(a%2==0)
         {
-            System.out.println("the no ids even");
+            System.out.println("the no ids evenNNNNN");
         }
         else
         {
-            System.out.println("the no is odd");
+            System.out.println("the no is odddddddd");
         }
     }
 }
