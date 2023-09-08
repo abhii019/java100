@@ -9,6 +9,7 @@ public class starsconsole {
         
     }
     System.out.println();
+    System.out.println("hoooooohhkk");
     }
  }   
 }
