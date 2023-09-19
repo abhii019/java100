@@ -3,7 +3,7 @@ public class largeno {
     public static void main(String[] args) {
         int x,y,z;
           Scanner sc = new Scanner(System.in);
-          System.out.println("enter the numbers");
+          System.out.println("enter thee numbers");
           x=sc.nextInt();
           y=sc.nextInt();
           z=sc.nextInt();
