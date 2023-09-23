@@ -5,7 +5,7 @@ public class while1 {
     public static void main(String[] args) {
         int n;
 Scanner input =new Scanner(System.in);
-        System.out.println("input an integer");
+        System.out.println("iinput an integer");
 
         while((n=input.nextInt()) !=0){
             System.out.println("you entered"+n);
