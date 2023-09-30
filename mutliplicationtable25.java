@@ -4,7 +4,7 @@ import java.util.Scanner;
     public static void main(String[] args) {
       int n,c;
       
-      System.out.println("enter tghe number");
+      System.out.println("enter the number");
       Scanner sc = new Scanner(System.in);
       n=sc.nextInt();
 
