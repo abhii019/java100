@@ -10,3 +10,4 @@ public class throw50 {
         System.out.println("rest of the codee"); 
     }
 }
+
