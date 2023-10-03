@@ -7,6 +7,6 @@ public class throw50 {
     }
     public static void main(String[] args) {
         validate(78);
-        System.out.println("rest of the code"); 
+        System.out.println("rest of the codee"); 
     }
 }
