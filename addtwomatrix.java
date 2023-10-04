@@ -26,7 +26,7 @@ public class addtwomatrix {
         for (d=0;d<n;d++)
         sum[c][d]= first[c][d] +second[c][d];
 
-        System.out.println("sum of entered  matrices  are");
+        System.out.println("sum of entered matrices  are");
         for(c=0;c<m;c++){
             for (d=0; d<n; d++)
             System.out.println(sum[c][d]+"\t");
