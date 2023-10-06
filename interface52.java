@@ -1,6 +1,6 @@
 
 interface Info{
-    static final String language ="Java";
+    static final String language ="Java id gun";
     public void display();
 }
 public class interface52  implements Info{
