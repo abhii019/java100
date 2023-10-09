@@ -10,7 +10,7 @@ public class mutliplyforanyno {
             a=sc.nextInt();
             b=sc.nextInt();
             for (c=a;c<=b;c++){
-                System.out.println("multiplocation of tabkle of "+c);
+                System.out.println("multiplication of table of "+c);
 
             }
             for (d=1;d<=10;d++){
