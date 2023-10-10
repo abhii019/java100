@@ -12,7 +12,7 @@ public class linearsearch {
     for (c=0;c<n;c++)
     array[ c]= sc.nextInt();
 
-    System.out.println("enetr value to find");
+    System.out.println("enterr value to be find");
     search = sc.nextInt();
     for (c=0;c<n;c++)
     {
