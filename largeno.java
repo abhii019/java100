@@ -14,6 +14,6 @@ public class largeno {
           else if(z>x&&z>y)
           System.out.println("z is the largest");
           else
-          System.out.println("the no are not distinct");
+          System.out.println("the no are not  distinct");
     }
 }
